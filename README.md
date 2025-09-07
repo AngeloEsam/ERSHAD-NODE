@@ -75,10 +75,10 @@ It handles authentication, job postings, applications, freelancer management, an
 ### 📁 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ershad-backend.git
-cd ershad-backend
+git clone https://github.com/AngeloEsam/ERSHAD-Node.git
+cd ERSHAD-Node
 --
 
-##  Run the app
+##  Run the Server
 npm install
 npm start
